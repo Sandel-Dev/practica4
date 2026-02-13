@@ -12,4 +12,4 @@ jobs:
     steps:
     - name: Enviar notificación a ntfy.sh
       run: |
-        curl -d "Se ha realizado un push en la rama main" https://ntfy.sh/devops-itla
+        curl -d "Push en main realizado por Sandel Arache 2023-1070" https://ntfy.sh/devops-itla
